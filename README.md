@@ -1,5 +1,5 @@
-# DIO_AI900
-Repositório para ser usado no curso de IA da DIO
+# DIO_AI900_Lab1
+Repositório para ser usado no lab1 de IA da DIO
 
 1- Criar Workspace do Azure Machine Learning
 Dashboard > Create a resource > Marktplace > Azure Machine Learning
