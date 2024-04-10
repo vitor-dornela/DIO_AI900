@@ -8,3 +8,5 @@ Documentação: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Inst
 6) Upar arquivos da documentação no storage
 7) Ir em AI Search, importar dados
 8) Usar o Search Explorer
+
+Ferramenta muito útil para analisar informações contidas em arquivos físicos ou digitais. Pode ser automatizada através do uso de API Rest, de forma que a IA faça a análise e armazene os resultados em um armazenamento.
